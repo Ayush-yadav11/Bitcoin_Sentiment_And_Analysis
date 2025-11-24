@@ -19,7 +19,7 @@ This report analyzes the relationship between Bitcoin market sentiment (Fear & G
 ### 1. Win Rate by Sentiment
 **Extreme Greed** shows the highest win rate (~46.5%), suggesting traders capitalize effectively on strong bullish momentum. Conversely, **Extreme Fear** sees the lowest success rate (~37%).
 
-![Win Rate by Sentiment](file:///c:/Users/hi/Desktop/Bitcoin_Sentiment_And_Analysis/output/win_rate_by_sentiment.png)
+![Win Rate by Sentiment](output/win_rate_by_sentiment.png)
 
 | Sentiment | Win Rate (%) | Trade Count |
 | :--- | :--- | :--- |
@@ -32,16 +32,16 @@ This report analyzes the relationship between Bitcoin market sentiment (Fear & G
 ### 2. Profit & Loss (PnL) Analysis
 While win rates are higher in Extreme Greed, the total PnL distribution varies.
 
-![Total PnL by Sentiment](file:///c:/Users/hi/Desktop/Bitcoin_Sentiment_And_Analysis/output/pnl_by_sentiment.png)
+![Total PnL by Sentiment](output/pnl_by_sentiment.png)
 
 The distribution of PnL across sentiments shows the variability in returns:
 
-![PnL Distribution](file:///c:/Users/hi/Desktop/Bitcoin_Sentiment_And_Analysis/output/pnl_distribution.png)
+![PnL Distribution](output/pnl_distribution.png)
 
 ### 3. Trade Size Behavior
 Average trade sizes may indicate risk appetite during different market conditions.
 
-![Average Trade Size](file:///c:/Users/hi/Desktop/Bitcoin_Sentiment_And_Analysis/output/avg_size_by_sentiment.png)
+![Average Trade Size](output/avg_size_by_sentiment.png)
 
 ## Conclusion
 - **Momentum Favorability:** The data suggests that "following the herd" during **Extreme Greed** phases has historically yielded higher win rates for this set of traders.
